@@ -75,7 +75,7 @@ class _ConverterAPPState extends State<ConverterAPP> {
                 fixedSize: Size(100, 50),
               ),
 
-              child: Text("Convert"),
+              child: Text("Convert to ₹"),
             ),
           ],
         ),
